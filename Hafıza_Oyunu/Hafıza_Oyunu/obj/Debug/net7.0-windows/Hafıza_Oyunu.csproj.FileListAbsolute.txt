@@ -1,0 +1,17 @@
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net7.0-windows\Hafıza_Oyunu.exe
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net7.0-windows\Hafıza_Oyunu.deps.json
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net7.0-windows\Hafıza_Oyunu.runtimeconfig.json
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net7.0-windows\Hafıza_Oyunu.dll
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net7.0-windows\Hafıza_Oyunu.pdb
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.Form1.resources
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.Form2.resources
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.csproj.GenerateResource.cache
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.AssemblyInfoInputs.cache
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.AssemblyInfo.cs
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.csproj.CoreCompileInputs.cache
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.dll
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\refint\Hafıza_Oyunu.dll
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.pdb
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\Hafıza_Oyunu.genruntimeconfig.cache
+F:\PRGD-3 Ödevler\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net7.0-windows\ref\Hafıza_Oyunu.dll
