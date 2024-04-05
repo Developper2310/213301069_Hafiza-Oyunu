@@ -17,6 +17,19 @@ TümResimleriGizle(): Oyun alanındaki tüm resimleri gizler ve oyunculara yeni 
   Ayrıca Bu projede, System.Windows.Forms.Timer sınıfı kullanılarak zamanlayıcı işlevselliği sağlanmaktadır.
 Zamanlayıcılar, belirli aralıklarla belirli kod parçalarını çalıştırmak için kullanılır. Bu proje içinde zamanlayıcılar,
 oyun mekaniğini ve kullanıcı deneyimini yönetmek için kullanılmıştır.
+# Görününm
+![image](https://github.com/Developper2310/213301069_Hafiza-Oyunu/assets/130366798/131aad0a-3dc0-4bbb-8658-f4a6e34bc8f9)
+form1
+![image](https://github.com/Developper2310/213301069_Hafiza-Oyunu/assets/130366798/8a262bb8-e11d-4e7c-9a96-1653374a67c0)
+form2 başlangıç
+![image](https://github.com/Developper2310/213301069_Hafiza-Oyunu/assets/130366798/4479e138-eac1-4f48-ac31-357d245c8d3c)
+
+form2 hatalı seçim
+
+# Önemli !
+Koda form2.cs de timer Timer_Tick foksiyonuna else parantezinin içinde SırayıDegistir(); fonksiyonu eksiktir manuel olarak eklemeniz gerekmetedir:
+![image](https://github.com/Developper2310/213301069_Hafiza-Oyunu/assets/130366798/e9db7a3d-e8eb-4e3e-9fb7-6ec80941d5ff)
+
 # Nasıl Oynanır?
 Oyun başladığında, her oyuncuya sırasıyla resimlerin eşleşen çiftlerini bulması için belirli bir süre verilir.
 Oyuncular resimleri tıklar ve eşleşen çiftleri bulmaya çalışırlar.
