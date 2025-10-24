@@ -26,10 +26,6 @@ form2 başlangıç
 
 form2 hatalı seçim
 
-# Önemli !
-Koda form2.cs de timer Timer_Tick foksiyonuna else parantezinin içinde SırayıDegistir(); fonksiyonu eksiktir manuel olarak eklemeniz gerekmetedir:
-![image](https://github.com/Developper2310/213301069_Hafiza-Oyunu/assets/130366798/e9db7a3d-e8eb-4e3e-9fb7-6ec80941d5ff)
-
 # Nasıl Oynanır?
 Oyun başladığında, her oyuncuya sırasıyla resimlerin eşleşen çiftlerini bulması için belirli bir süre verilir.
 Oyuncular resimleri tıklar ve eşleşen çiftleri bulmaya çalışırlar.
